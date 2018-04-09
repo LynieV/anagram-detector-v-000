@@ -15,4 +15,6 @@ class Anagram
     end
   end
   
+  #array
+  
 end
